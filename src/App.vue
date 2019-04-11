@@ -20,6 +20,7 @@
       />
 
       <router-view :key="this.viewKey"></router-view>
+      我是程序员
 
     </div>
 
